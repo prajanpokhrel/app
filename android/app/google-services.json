@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970519298424",
+    "project_id": "meetmeapp-5b5ee",
+    "storage_bucket": "meetmeapp-5b5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970519298424:android:8ba6cb6143c541b6d6888d",
+        "android_client_info": {
+          "package_name": "com.example.meetme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlfoBsAd0DXAIDKR90qkhyta35tBiPWvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
